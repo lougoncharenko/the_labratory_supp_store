@@ -10,17 +10,21 @@ const Services = () => {
     <section className="services">
         <Container>
             <Row>
-                <Col lg='3' md='4'>
-                {data.map((data) => (
-                    <div className="service_item">
-                        <span><i class={data.icon}></i></span>
-                        <div>
-                            <h3>{data.title}</h3>
-                            <p>{data.subtitle}</p>
-                        </div>
-                    </div>
-                      ))}
-                </Col>
+                {data.map((item, index) => 
+                    <Col lg='3' md='5' key={index}>
+                        <motion.div 
+                        whileHover={{scale: 1.1}}
+                        className="service_item"
+                        style={{background: `${item.bg}`}}>
+                            <span><i class={item.icon}></i></span>
+                            <div>
+                                <h3>{item.title}</h3>
+                                <p>{item.subtitle}</p>
+                            </div>
+                        </motion.div>
+                    </Col>
+                )}
+                
             </Row>
         </Container>
     </section>

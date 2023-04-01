@@ -1,5 +1,5 @@
 import {Routes, Route, Navigate} from 'react-router-dom'
-
+import React, {useState} from 'react';
 import Home from '../pages/Home';
 import Shop from '../pages/Shop';
 import Cart from '../pages/Cart';
@@ -9,12 +9,13 @@ import Login from '../pages/Login';
 import Signup from '../pages/Signup';
 
 const Routers = () => {
+  const [supplementDetail, setSupplementDetail] = useState({});
   return (
    <Routes>
    <Route path="/" element ={<Navigate to='/home' />} />
     <Route path="home" element={<Home/>} />
-    <Route path="shop" element={<Shop/>} />
-    <Route path="shop/:id" element={<ProductDetails/>} />
+    <Route path="shop" element={<Shop setSupplementDetail={setSupplementDetail}/>} />
+    <Route path="shop/:id" element={<ProductDetails supplementDetail={supplementDetail} />} />
     <Route path="cart" element={<Cart/>} />
     <Route path="checkout" element={<Checkout/>} />
     <Route path="login" element={<Login/>} />

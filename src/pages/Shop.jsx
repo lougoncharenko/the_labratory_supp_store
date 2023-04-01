@@ -1,10 +1,15 @@
-import React from 'react';
+import {useState} from 'react';
+import Helmet from '../components/Helmet/Helmet'
+import Searchbar from '../components/Searchbar/Searchbar';
+import ProductList from '../components/Products/ProductList';
 
-const Shop = () => {
+const Shop = ({setSupplementDetail}) => {
+  const [inputText, setInputText] = useState("");
   return (
-    <div>
-      <h1>Shop</h1>
-    </div>
+    <Helmet title={'Shop'}>
+      <Searchbar setInputText={setInputText}/>
+      <ProductList inputText={inputText} setSupplementDetail={setSupplementDetail}/>
+    </Helmet>
   );
 }
 
