@@ -1,10 +1,15 @@
 import React from 'react';
+import Helmet from '../components/Helmet/Helmet'
+import Banner from '../components/Banner/Banner';
+
+
 
 const Home = () => {
+
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <Helmet title={'home'}>
+     <Banner/>
+    </Helmet>
   );
 }
 
