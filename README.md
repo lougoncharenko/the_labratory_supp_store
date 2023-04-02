@@ -1,4 +1,6 @@
 # The Labratory
+<img width="1391" alt="Screen Shot 2023-04-02 at 1 10 11 PM" src="https://user-images.githubusercontent.com/93098869/229368051-333517e9-fd1b-4441-a421-c80feb31fce2.png">
+
 
 ## About this project
 The labratory is an online supplement store where consumers can browse and purchase supplements for their fitness needs
