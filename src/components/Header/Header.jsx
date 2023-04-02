@@ -2,7 +2,6 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Header.css'
 import {Container, Row} from 'reactstrap'
-
 import logo from '../../assets/images/lab.png'
 
 const Header = () => {
@@ -13,7 +12,7 @@ const Header = () => {
           <div className="nav_wrapper">
             <div className="logo">
               <img src={logo} alt="logo" />
-              <div>
+              <div className='logo_headers'>
                 <h1>The Labratory</h1>
                 <p>Since 2011</p>
               </div>

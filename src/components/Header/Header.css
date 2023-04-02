@@ -25,7 +25,8 @@ column-gap: 8px;
 .logo h1{
     font-size: 1.2rem;
     font-weight: 600;
-    color: var(--primary-color);
+    color: black !important;
+    
 }
 
 .menu{

@@ -8,16 +8,13 @@ import Container from '@mui/material/Container';
 import { Link } from 'react-router-dom';
 import {motion} from 'framer-motion'
 
-export default function SupplementCard({data, type, inputText, setSupplementDetail}){
+export default function SupplementCard({data, inputText, setSupplementDetail}){
     const filteredData = data.filter((d) => {
         if (inputText === '') {
             return d;
         }
-        else if (type === data.type) {
-          return  d.type.toLowerCase().includes(type)
-        }
         else {
-            return d.product_name.toLowerCase().includes(inputText) && d.type.toLowerCase().includes(type)
+            return d.product_name.toLowerCase().includes(inputText) 
         }
     })
 

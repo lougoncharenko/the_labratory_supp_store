@@ -7,7 +7,7 @@ import ProductCard from './ProductCard';
 
 const theme = createTheme(); 
 
-export default function SupplementContainer({type, inputText, setSupplementDetail}) {
+export default function SupplementContainer({ inputText, setSupplementDetail}) {
 
     return (
         <ThemeProvider theme={theme}>
@@ -15,7 +15,7 @@ export default function SupplementContainer({type, inputText, setSupplementDetai
       <AppBar position="relative">
       </AppBar>
       <main>
-       <ProductCard type={type} data={data} inputText={inputText} setSupplementDetail={setSupplementDetail}/>
+       <ProductCard data={data} inputText={inputText} setSupplementDetail={setSupplementDetail}/>
       </main>
     </ThemeProvider>
     )
