@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
-import { motion } from "framer-motion"
+import Cards from './Cards';
 import './TrendingProducts.css'
 
 const TrendingProducts = () => {
@@ -10,9 +10,10 @@ const TrendingProducts = () => {
             <Row>
                 <Col lg='12' className='text-center'>
                     <h2 className='section_title'>
-                        Trending Products
+                        Featured Products
                     </h2>
                 </Col>
+                <Cards />
             </Row>
         </Container>
     </section>

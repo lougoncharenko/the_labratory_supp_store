@@ -5,10 +5,11 @@ import ProductList from '../components/Products/ProductList';
 
 const Shop = ({setSupplementDetail}) => {
   const [inputText, setInputText] = useState("");
+  const [type, setType] = useState('');
   return (
     <Helmet title={'Shop'}>
-      <Searchbar setInputText={setInputText}/>
-      <ProductList inputText={inputText} setSupplementDetail={setSupplementDetail}/>
+      <Searchbar setType={setType} type={type} setInputText={setInputText}/>
+      <ProductList type={type} inputText={inputText} setSupplementDetail={setSupplementDetail}/>
     </Helmet>
   );
 }

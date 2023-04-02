@@ -6,19 +6,23 @@ import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { Link } from 'react-router-dom';
+import {motion} from 'framer-motion'
 
-export default function SupplementCard({data, inputText, setSupplementDetail}){
+export default function SupplementCard({data, type, inputText, setSupplementDetail}){
     const filteredData = data.filter((d) => {
         if (inputText === '') {
             return d;
         }
+        else if (type === data.type) {
+          return  d.type.toLowerCase().includes(type)
+        }
         else {
-            return d.product_name.toLowerCase().includes(inputText)
+            return d.product_name.toLowerCase().includes(inputText) && d.type.toLowerCase().includes(type)
         }
     })
 
     return (
-        <Container sx={{ py: 8 }} maxWidth="md">
+        <Container sx={{ py: 4 }} maxWidth="lg">
           <Grid container spacing={4}>
             {filteredData.map((data) => (
 
@@ -48,15 +52,15 @@ export default function SupplementCard({data, inputText, setSupplementDetail}){
                       ${data.cost}
                     </Typography>
                     <div className='button-container'>
-                    <Link to={`/supplement/${data.id}`}>
-                        <button 
-                        className='add'
-                        id = {data.id}
+                    <Link to={`/shop/${data.id}`}>
+                        <motion.button 
+                        whileHover={{scale: 1.2}}
+                        id = {data.ID}
                         onClick={() => {
                             setSupplementDetail(data);
                           }}
                         > Click to view details
-                        </button>
+                        </motion.button>
                     </Link>
                 </div>
                   </CardContent>

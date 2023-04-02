@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 22,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/09/Image-1-Carousel-Recharge30S-Watermelon.png",
+        "product_name": "Recharge Post-Workout",
+        "type": "creatine",
+        "company": "Legion",
+        "cost": 39.99,
+        "description": "Get our 100% natural[1] post-workout drink with clinically effective doses[2] of scientifically proven ingredients[3] for more muscle and strength, better post-workout recovery, and less soreness.Will Recharge help you pack on brain-shrinking amounts of muscle in 30 days flat? No. Will it add another plate or two to the bar? Absolutely not. But will it help you train harder, recover faster, and gain more muscle and strength? Yes. Or your money back."
+      },
+      {
+        "ID": 23,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Whey-2lb-Pumpkin-Pie-1000x1000-1.png",
+        "product_name": "Recharge Post-Workout",
+        "type": "protein",
+        "company": "Legion",
+        "cost": 53.99,
+        "description": "Is Whey+ an “anabolic feast” for maximizing muscle growth? No. Will it supercharge your workouts and recovery? Absolutely not. But will it help you eat enough high-quality protein rich in all 9 essential amino acids to keep gaining muscle and strength? And without bloating, gassiness, or stomach aches? Yes. Or your money back. Made with pure Truly Grass Fed™ milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass. Total transformation transparency (no proprietary blends). Certified to contain no banned substances by Labdoor™, the gold standard of third-party lab testing. Made in the USA in NSF-certified and FDA-inspected and cGMP-compliant facilities"
+      },
+      {
+        "ID": 24,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Pulse20S-Apple-Cider.png",
+        "product_name": "Pulse Natural Pre-Workout",
+        "type": "pre-workout",
+        "company": "Legion",
+        "cost": 44.99,
+        "description": "Many of us can’t shake the cobwebs without our morning cup of coffee, but this powerful compound is a lot more than a mere pick-me-up. Caffeine also boosts metabolism, improves strength, promotes muscle endurance, and enhances anaerobic performance. The clinically effective dose of caffeine for enhancing performance is between 3 and 6 milligrams per kilogram of body weight.[14]"
+      },
+      {
+        "ID": 25,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Casein-Banana-Creampie-1000x1000-1.png",
+        "product_name": "Casein Protein Powder",
+        "type": "protein",
+        "company": "Legion",
+        "cost": 59.99,
+        "description": "Micellar casein is a form of casein protein that has been produced in a way that maximally preserves its slow-digesting properties. It’s the highest quality casein protein powder you can buy and has a stellar amino acid profile, providing you with 11.4 grams of essential amino acids per serving. Casein+ is also made with pure Truly Grass Fed™ casein protein, which is made with milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass."
+      }
+]

@@ -62,3 +62,9 @@ img{
 section{
   padding: 60px 0px;
 }
+
+.product_container{
+  background-color: (var(--card-bg-04));
+  display:flex;
+  justify-content: space-around;
+}

@@ -151,6 +151,87 @@
         "company": "GAT® SPORT",
         "cost": 44.99,
         "description": "For nearly a decade, NITRAFLEX® has been the name you trust when it comes to pre-workout formulas. And now, NITRAFLEX ups the ante by introducing Nitrosigine to the mix, and adding even more pure Citrulline to the formula. This 1-2 punch  greatly increases pumps beyond expectations. The volume has been turned up on the energy, focus and flavor as well. Lastly, there's no more artificial dyes in the formulas. All in all, this is the strongest and best-tasting NITRAFLEX yet!"
+      },
+      {
+        "ID": 17,
+        "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/WPI-C_2000x.png?v=1657921078",
+        "product_name": "Whey Protein Isolate",
+        "type": "protein",
+        "company": "Kaged",
+        "cost": 59.99,
+        "description": "High quality protein powder with 25g of protein and 12g of EAAs. This protein powder has no flavors or colors from artificial sources, 1g sugar, gluten-free, and is non-GMO. It has been third party tested for quality, purity and safety."
+      },
+      {
+        "ID": 18,
+        "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/pk-pl1_600x.png?v=1680298499",
+        "product_name": "Pre-Kaged®",
+        "type": "pre-workout",
+        "company": "Kaged",
+        "cost": 44.99,
+        "description": "Pre-Kaged is the Ultimate Pre-Workout to provide the best focus, pump, and stamina in the gym. Full label disclosure combined with premium, patented ingredients to crush your next workout! Also suitable for Vegan/Vegetarian Diets."
+      },
+      {
+        "ID": 19,
+        "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/hcl-un_1_2000x.png?v=1680295267",
+        "product_name": "Creatine HCl™",
+        "type": "creatine",
+        "company": "Kaged",
+        "cost": 24.99,
+        "description": "Anyone looking to help build muscle and improve recovery without the need of a loading phase. Premium, patented Creatine HCl digests easy so you can achieve your goals."
+      },
+      {
+        "ID": 20,
+        "image": "https://d1vo8zfysxy97v.cloudfront.net/media/product/sf903__ve8382489c6ce9fb7f28cdddef00e6f1ece146591.png",
+        "product_name": "Creatine",
+        "type": "creatine",
+        "company": "Thorne",
+        "cost": 40.00,
+        "description": "Creatine is an amino acid found mostly in your muscles and in the brain. It’s naturally produced in the body from other amino acids. Creatine is also found in foods like meats, eggs, and fish. It plays a vital role in the body’s production of cellular energy by helping to make ATP, a molecule needed for intense exercise, as well as for supplying the energy to pump your heart and power your brain.* "
+      },
+      {
+        "ID": 21,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_Kxj_UErw8xKDO8ujh2FWpcfU2BVA8GChdh2vzroCynm6AKjofwMIb9OAsL7LWccR9Zb76bWttq7z382_gUq-R3tx79HyyDdD17tp&usqp=CAc",
+        "product_name": "Micronized Creatine Monohydrate",
+        "type": "creatine",
+        "company": "1st phorm",
+        "cost": 39.99,
+        "description": "One of the best selling, most researched supplements on the market, creatine made a name for itself as a proven performer back in the 1990’s. Researchers found that creatine has the ability to enhance athletic performance and has helped countless athletes train harder, work out longer and bottom-line ... produce better health and fitness results."
+      },
+      {
+        "ID": 22,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/09/Image-1-Carousel-Recharge30S-Watermelon.png",
+        "product_name": "Recharge Post-Workout",
+        "type": "creatine",
+        "company": "Legion",
+        "cost": 39.99,
+        "description": "Get our 100% natural[1] post-workout drink with clinically effective doses[2] of scientifically proven ingredients[3] for more muscle and strength, better post-workout recovery, and less soreness.Will Recharge help you pack on brain-shrinking amounts of muscle in 30 days flat? No. Will it add another plate or two to the bar? Absolutely not. But will it help you train harder, recover faster, and gain more muscle and strength? Yes. Or your money back."
+      },
+      {
+        "ID": 23,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Whey-2lb-Pumpkin-Pie-1000x1000-1.png",
+        "product_name": "Recharge Post-Workout",
+        "type": "protein",
+        "company": "Legion",
+        "cost": 53.99,
+        "description": "Is Whey+ an “anabolic feast” for maximizing muscle growth? No. Will it supercharge your workouts and recovery? Absolutely not. But will it help you eat enough high-quality protein rich in all 9 essential amino acids to keep gaining muscle and strength? And without bloating, gassiness, or stomach aches? Yes. Or your money back. Made with pure Truly Grass Fed™ milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass. Total transformation transparency (no proprietary blends). Certified to contain no banned substances by Labdoor™, the gold standard of third-party lab testing. Made in the USA in NSF-certified and FDA-inspected and cGMP-compliant facilities"
+      },
+      {
+        "ID": 24,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Pulse20S-Apple-Cider.png",
+        "product_name": "Pulse Natural Pre-Workout",
+        "type": "pre-workout",
+        "company": "Legion",
+        "cost": 44.99,
+        "description": "Many of us can’t shake the cobwebs without our morning cup of coffee, but this powerful compound is a lot more than a mere pick-me-up. Caffeine also boosts metabolism, improves strength, promotes muscle endurance, and enhances anaerobic performance. The clinically effective dose of caffeine for enhancing performance is between 3 and 6 milligrams per kilogram of body weight.[14]"
+      },
+      {
+        "ID": 25,
+        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Casein-Banana-Creampie-1000x1000-1.png",
+        "product_name": "Casein Protein Powder",
+        "type": "protein",
+        "company": "Legion",
+        "cost": 59.99,
+        "description": "Micellar casein is a form of casein protein that has been produced in a way that maximally preserves its slow-digesting properties. It’s the highest quality casein protein powder you can buy and has a stellar amino acid profile, providing you with 11.4 grams of essential amino acids per serving. Casein+ is also made with pure Truly Grass Fed™ casein protein, which is made with milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass."
       }
 
 ]
