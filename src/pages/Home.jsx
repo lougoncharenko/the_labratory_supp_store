@@ -3,7 +3,7 @@ import Helmet from '../components/Helmet/Helmet'
 import Banner from '../components/Banner/Banner';
 import Services from '../components/Services/Services';
 import TrendingProducts from '../components/TrendingProducts/TrendingProducts';
-
+import Benefits from '../components/Benefits/Benefits';
 
 const Home = () => {
 
@@ -12,6 +12,7 @@ const Home = () => {
      <Banner/>
      <Services />
      <TrendingProducts/>
+     <Benefits />
     </Helmet>
   );
 }

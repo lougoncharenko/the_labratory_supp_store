@@ -8,7 +8,7 @@ import Container from '@mui/material/Container';
 import { Link } from 'react-router-dom';
 import {motion} from 'framer-motion'
 
-export default function SupplementCard({data, inputText, setSupplementDetail}){
+export default function SupplementCard({data, inputText, setSupplementDetail, productType}){
     const filteredData = data.filter((d) => {
         if (inputText === '') {
             return d;
@@ -20,6 +20,9 @@ export default function SupplementCard({data, inputText, setSupplementDetail}){
 
     return (
         <Container sx={{ py: 4 }} maxWidth="lg">
+            <Typography gutterBottom variant="h2" component="h2">
+                     {productType}
+                    </Typography>
           <Grid container spacing={4}>
             {filteredData.map((data) => (
 

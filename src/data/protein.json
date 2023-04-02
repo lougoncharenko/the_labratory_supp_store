@@ -80,80 +80,8 @@
         "cost": 59.99,
         "description": "Level-1 is comprised of the Level-1 Matrix which is a bioavailable, sustained assimilation protein formula* consisting of Low Temperature Processed Cross-Flow Micro Filtrated Whey Protein Isolate, Low Temperature Processed Micro-Filtrated Whey Protein Concentrate and Low Temperature Processed Milk Protein Concentrate. The Level-1 Matrix is specifically formulated to deliver premium proteins in a sustained release which mimics the protein assimilation rates of whole food."
       },
-      {
+     {
         "ID": 9,
-        "image": "https://www.gnc.com/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dwf0cd0353/hi-res/533872_web_Jym%20Pre%20Workout%20Pink%20Lemonade%2030%20count_Front.jpg?sw=1500&sh=1500&sm=fit",
-        "product_name": "Pre-Workout Supplement",
-        "type": "Pre-workout",
-        "company": "JYM®",
-        "cost": 54.99,
-        "description": "I’ve taken the decades I’ve spent in spent in school, the lab, the gym, and the kitchen distilled them into the very product you hold in your hands. I formulated every JYM Supplement Science product to include the same ingredients at the exact amount. I use to reap the maximum performance and physique benefits. It's my hope that you too, will experience similar results*"
-      },
-      {
-        "ID": 10,
-        "image": "https://www.gnc.com/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw5eac8253/hi-res/369881_Beyond_Raw_Lit_Strawberry_Lemonade_Tub.jpg?sw=1500&sh=1500&sm=fit",
-        "product_name": "Beyond Raw® LIT™ Pre-Workout",
-        "type": "Pre-workout",
-        "company": "BEYOND RAW®",
-        "cost": 44.99,
-        "description": "Destroy your limitations with the best pre-workout supplements from BEYOND RAW®. BEYOND RAW LIT™ pre-workout powder is clinically dosed with caffeine for energy and endurance, creatine monohydrate to help you power bigger goals, and CarnoSyn® beta-alanine to fight fatigue and improve performance*. Because your only mode is more."
-      },
-      {
-        "ID": 11,
-        "image": "https://www.gnc.com/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dwfa6ea054/hi-res/527980_web_Ghost%20Legend%20Warheads_tub_Front.jpg?sw=1500&sh=1500&sm=fit",
-        "product_name": "LEGEND® V2 Pre-Workout",
-        "type": "Pre-workout",
-        "company": "GHOST®",
-        "cost": 44.99,
-        "description": "Feel Like A Legend When You Need It Most. GHOST LEGEND® pre-workout combines a standout energy and focus formula with premium pump ingredients to get you feeling like a legend whenever you need it most."
-      },
-      {
-        "ID": 12,
-        "image": "https://cdn-fsly.yottaa.net/5b9fc7760b534475fab84ce9/www.gnc.com/v~4b.90/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw65cf97ff/hi-res/500409_1.jpg?sw=1500&sh=1500&sm=fit&yocs=19_",
-        "product_name": "Bucked Up® Pre-Workout",
-        "type": "Pre-workout",
-        "company": "BUCKED UP®",
-        "cost": 49.99,
-        "description": "DAS Labs presents Bucked Up, a game-changing formula set to revolutionize pre-workout. This scientifically tested, non-proprietary blend with no fillers, is loaded with the most essential ingredients, including three growth hormone potentiates, to help enhance your workout. "
-      },
-      {
-        "ID": 13,
-        "image": "https://cdn-fsly.yottaa.net/5b9fc7760b534475fab84ce9/www.gnc.com/v~4b.90/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw0ec1124e/hi-res/561546_Alani_Nu_Pre_Workout_Juicy_Peach_Front.jpg?sw=1500&sh=1500&sm=fit&yocs=19_",
-        "product_name": "Alani Nu Pre-Workout",
-        "type": "Pre-workout",
-        "company": "ALANI NU",
-        "cost": 44.99,
-        "description": "Alani Nu believes that the largest gain comes from that last rep, set or mile. When you push through, you’re victorious. Alani Nu Pre-Workout Powder - Galaxy Lemonade provides the perfect amount of endurance to power through those moments that matter most. We provide 30 servings of this flavor-packed formula to ensure that you don’t miss a beat and get the most out of every single workout. Enjoy this sports supplement in a variety of delicious and unique flavors!"
-      },
-      {
-        "ID": 14,
-        "image": "https://www.gnc.com/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw7c964583/hi-res/548826_web_Redcon1%20TotalWar%20Blue%20Lemonade_Front.jpg?sw=1500&sh=1500&sm=fit",
-        "product_name": "Total War Pre-Workout",
-        "type": "Pre-workout",
-        "company": "REDCON1",
-        "cost": 44.99,
-        "description": "When it's time to go to battle, you go hard with Total War®. Experience a workout with intensity you didn't think was possible. New found strength and energy are just minutes away. Lock-in and get ready to bring the noise!"
-      },
-      {
-        "ID": 15,
-        "image": "https://cdn-fsly.yottaa.net/5b9fc7760b534475fab84ce9/www.gnc.com/v~4b.90/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dwdc6297d7/hi-res/447861_1.jpg?sw=1500&sh=1500&sm=fit&yocs=19_",
-        "product_name": "C4® Original Pre-Workout",
-        "type": "Pre-workout",
-        "company": "CELLUCOR®",
-        "cost": 34.99,
-        "description": "C4® Original – Fruit Punch is Cellucor’s most popular pre-workout powder. With ingredients like creatine nitrate, TeaCrine®, beta-alanine, arginine alpha ketoglutarate and caffeine, C4® Original will continue to deliver explosive energy and focus to help push you through your next workout.*"
-      },
-      {
-        "ID": 16,
-        "image": "https://cdn-fsly.yottaa.net/5b9fc7760b534475fab84ce9/www.gnc.com/v~4b.90/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dwe3b16e51/hi-res/410699_web_GAT%20Sport%20Nitraflex%20Preworkout%20Green%20Apple_Front.jpg?sw=1500&sh=1500&sm=fit&yocs=19_",
-        "product_name": "Sport NITRAFLEX® Pre-Workout",
-        "type": "Pre-workout",
-        "company": "GAT® SPORT",
-        "cost": 44.99,
-        "description": "For nearly a decade, NITRAFLEX® has been the name you trust when it comes to pre-workout formulas. And now, NITRAFLEX ups the ante by introducing Nitrosigine to the mix, and adding even more pure Citrulline to the formula. This 1-2 punch  greatly increases pumps beyond expectations. The volume has been turned up on the energy, focus and flavor as well. Lastly, there's no more artificial dyes in the formulas. All in all, this is the strongest and best-tasting NITRAFLEX yet!"
-      },
-      {
-        "ID": 17,
         "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/WPI-C_2000x.png?v=1657921078",
         "product_name": "Whey Protein Isolate",
         "type": "protein",
@@ -162,52 +90,7 @@
         "description": "High quality protein powder with 25g of protein and 12g of EAAs. This protein powder has no flavors or colors from artificial sources, 1g sugar, gluten-free, and is non-GMO. It has been third party tested for quality, purity and safety."
       },
       {
-        "ID": 18,
-        "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/pk-pl1_600x.png?v=1680298499",
-        "product_name": "Pre-Kaged®",
-        "type": "pre-workout",
-        "company": "Kaged",
-        "cost": 44.99,
-        "description": "Pre-Kaged is the Ultimate Pre-Workout to provide the best focus, pump, and stamina in the gym. Full label disclosure combined with premium, patented ingredients to crush your next workout! Also suitable for Vegan/Vegetarian Diets."
-      },
-      {
-        "ID": 19,
-        "image": "https://cdn.shopify.com/s/files/1/1110/3248/products/hcl-un_1_2000x.png?v=1680295267",
-        "product_name": "Creatine HCl™",
-        "type": "creatine",
-        "company": "Kaged",
-        "cost": 24.99,
-        "description": "Anyone looking to help build muscle and improve recovery without the need of a loading phase. Premium, patented Creatine HCl digests easy so you can achieve your goals."
-      },
-      {
-        "ID": 20,
-        "image": "https://d1vo8zfysxy97v.cloudfront.net/media/product/sf903__ve8382489c6ce9fb7f28cdddef00e6f1ece146591.png",
-        "product_name": "Creatine",
-        "type": "creatine",
-        "company": "Thorne",
-        "cost": 40.00,
-        "description": "Creatine is an amino acid found mostly in your muscles and in the brain. It’s naturally produced in the body from other amino acids. Creatine is also found in foods like meats, eggs, and fish. It plays a vital role in the body’s production of cellular energy by helping to make ATP, a molecule needed for intense exercise, as well as for supplying the energy to pump your heart and power your brain.* "
-      },
-      {
-        "ID": 21,
-        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_Kxj_UErw8xKDO8ujh2FWpcfU2BVA8GChdh2vzroCynm6AKjofwMIb9OAsL7LWccR9Zb76bWttq7z382_gUq-R3tx79HyyDdD17tp&usqp=CAc",
-        "product_name": "Micronized Creatine Monohydrate",
-        "type": "creatine",
-        "company": "1st phorm",
-        "cost": 39.99,
-        "description": "One of the best selling, most researched supplements on the market, creatine made a name for itself as a proven performer back in the 1990’s. Researchers found that creatine has the ability to enhance athletic performance and has helped countless athletes train harder, work out longer and bottom-line ... produce better health and fitness results."
-      },
-      {
-        "ID": 22,
-        "image": "https://legionathletics.com/wp-content/uploads/2022/09/Image-1-Carousel-Recharge30S-Watermelon.png",
-        "product_name": "Recharge Post-Workout",
-        "type": "creatine",
-        "company": "Legion",
-        "cost": 39.99,
-        "description": "Get our 100% natural[1] post-workout drink with clinically effective doses[2] of scientifically proven ingredients[3] for more muscle and strength, better post-workout recovery, and less soreness.Will Recharge help you pack on brain-shrinking amounts of muscle in 30 days flat? No. Will it add another plate or two to the bar? Absolutely not. But will it help you train harder, recover faster, and gain more muscle and strength? Yes. Or your money back."
-      },
-      {
-        "ID": 23,
+        "ID": 10,
         "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Whey-2lb-Pumpkin-Pie-1000x1000-1.png",
         "product_name": "Recharge Post-Workout",
         "type": "protein",
@@ -216,16 +99,7 @@
         "description": "Is Whey+ an “anabolic feast” for maximizing muscle growth? No. Will it supercharge your workouts and recovery? Absolutely not. But will it help you eat enough high-quality protein rich in all 9 essential amino acids to keep gaining muscle and strength? And without bloating, gassiness, or stomach aches? Yes. Or your money back. Made with pure Truly Grass Fed™ milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass. Total transformation transparency (no proprietary blends). Certified to contain no banned substances by Labdoor™, the gold standard of third-party lab testing. Made in the USA in NSF-certified and FDA-inspected and cGMP-compliant facilities"
       },
       {
-        "ID": 24,
-        "image": "https://legionathletics.com/wp-content/uploads/2022/11/Pulse20S-Apple-Cider.png",
-        "product_name": "Pulse Natural Pre-Workout",
-        "type": "pre-workout",
-        "company": "Legion",
-        "cost": 44.99,
-        "description": "Many of us can’t shake the cobwebs without our morning cup of coffee, but this powerful compound is a lot more than a mere pick-me-up. Caffeine also boosts metabolism, improves strength, promotes muscle endurance, and enhances anaerobic performance. The clinically effective dose of caffeine for enhancing performance is between 3 and 6 milligrams per kilogram of body weight.[14]"
-      },
-      {
-        "ID": 25,
+        "ID": 11,
         "image": "https://legionathletics.com/wp-content/uploads/2022/11/Image-1-Carousel-Casein-Banana-Creampie-1000x1000-1.png",
         "product_name": "Casein Protein Powder",
         "type": "protein",
@@ -234,7 +108,7 @@
         "description": "Micellar casein is a form of casein protein that has been produced in a way that maximally preserves its slow-digesting properties. It’s the highest quality casein protein powder you can buy and has a stellar amino acid profile, providing you with 11.4 grams of essential amino acids per serving. Casein+ is also made with pure Truly Grass Fed™ casein protein, which is made with milk from hormone- and antibiotic-free cows that live the way nature intended—outside, roaming and grazing on grass."
       },
       {
-        "ID": 26,
+        "ID": 12,
         "image": "https://cdn-fsly.yottaa.net/5b9fc7760b534475fab84ce9/www.gnc.com/v~4b.94/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw2a167019/hi-res/350156_1.jpg?sw=480&sh=480&sm=fit&yocs=19_1c_",
         "product_name": "Gold Standard 100% Casein™",
         "type": "protein",
@@ -243,32 +117,13 @@
         "description": "Rapid protein use is desirable immediately before and after exercise to help refuel recovering muscles, but delayed digestion and absorption may be more beneficial at other times – including bedtime when your body typically goes for hours without food. Casein proteins are acid sensitive and tend to thicken in the stomach. Because of this, it can take more than twice as long for our Gold Standard 100% Casein to be broken down into it’s amino acid subcomponents than other proteins. By blending premium micellar and calcium caseins, we’ve created a protein formula that’s truly time-released."
       },
       {
-        "ID": 27,
-        "image": "",
-        "product_name": "",
-        "type": "",
-        "company": "",
-        "cost": 0,
-        "description": ""
-      },
-      {
-        "ID": 28,
+        "ID": 13,
         "image": "https://static.thcdn.com/images/large/original//productimg/1600/1600/10852500-7324987878090111.jpg",
         "product_name": "Impact Whey Protein",
         "type": "protein",
         "company": "My Protein",
         "cost": 44.99,
         "description": "Our Impact Whey is a perfect source of everyday protein with over 80% protein content and naturally occurring BCAAs to help build and repair new muscle."
-      },
-      {
-        "ID": 29,
-        "image": "",
-        "product_name": "",
-        "type": "",
-        "company": "",
-        "cost": 0,
-        "description": ""
       }
-
 
 ]
