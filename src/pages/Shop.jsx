@@ -8,9 +8,9 @@ const Shop = ({setSupplementDetail}) => {
   const [inputText, setInputText] = useState("");
   return (
     <Helmet title={'Shop'}>
+      <Searchbar  setInputText={setInputText} inputText={inputText} />
       <ShopContainer setSupplementDetail={setSupplementDetail}/>
-      <Searchbar  setInputText={setInputText} />
-      <ProductList inputText={inputText} setSupplementDetail={setSupplementDetail}/>
+      {/* <ProductList inputText={inputText} setSupplementDetail={setSupplementDetail}/> */}
     </Helmet>
   );
 }

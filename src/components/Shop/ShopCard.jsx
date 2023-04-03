@@ -15,11 +15,14 @@ const ShopCards = ({item, setSupplementDetail}) => {
       productName: item.product_name,
       price: item.cost,
       image: item.image,
-    }))
-  }
+    })
+    );
+    alert('Product added to the cart')
+  };
   return (
     <Col lg='3' md='4' >
       <Card
+      style={{marginBottom: "25px"}}
        sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
       <div
       className="product_item">
@@ -49,10 +52,11 @@ const ShopCards = ({item, setSupplementDetail}) => {
           <motion.button
           style={{marginBottom: "15px", backgroundColor: "green", color: "white", borderRadius: "50px", padding: "5px"}}
           whileHover={{scale: 1.2}}
+          onClick={addToCart}
           >Add to cart</motion.button>
          </div>
       </div> 
-      </Card>
+      </Card >
       </Col>
   );
 }
