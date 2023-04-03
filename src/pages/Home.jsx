@@ -5,13 +5,13 @@ import Services from '../components/Services/Services';
 import TrendingProducts from '../components/TrendingProducts/TrendingProducts';
 import Benefits from '../components/Benefits/Benefits';
 
-const Home = () => {
+const Home = ({setSupplementDetail}) => {
 
   return (
     <Helmet title={'home'}>
      <Banner/>
      <Services />
-     <TrendingProducts/>
+     <TrendingProducts setSupplementDetail={setSupplementDetail}/>
      <Benefits />
     </Helmet>
   );

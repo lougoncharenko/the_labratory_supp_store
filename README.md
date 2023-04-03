@@ -16,6 +16,7 @@ The labratory is an online supplement store where consumers can browse and purch
 - [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page) for components
 - [React-redux](https://react-redux.js.org)
 - [Redux Toolkit](https://redux-toolkit.js.org)
+- [React Toastify](https://www.npmjs.com/package/react-toastify)
 - [Material UI](https://mui.com) for reusable UI components
 - [Remix Icon](https://remixicon.com/) for icons
 - [Google Fonts](https://fonts.google.com/) for fonts

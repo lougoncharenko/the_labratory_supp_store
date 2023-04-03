@@ -6,6 +6,7 @@ import Card from '@mui/material/Card';
 import './Shop.css'
  import { useDispatch } from 'react-redux';
  import { cartActions } from "../../redux/slices/cartSlice";
+ import {  toast } from 'react-toastify';
 
 const ShopCards = ({item, setSupplementDetail}) => {
   const dispatch = useDispatch();
@@ -17,7 +18,7 @@ const ShopCards = ({item, setSupplementDetail}) => {
       image: item.image,
     })
     );
-    alert('Product added to the cart')
+    toast.success('Product added successfully')
   };
   return (
     <Col lg='3' md='4' >
