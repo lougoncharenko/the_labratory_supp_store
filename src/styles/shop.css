@@ -44,3 +44,13 @@
     font-size: 2.5rem;
     font-weight: 600;
 }
+
+@media only screen and (max-width: 768px) {
+    .filter_widget {
+        margin-bottom: 30px;
+    }
+
+    .filter_widget select  {
+        padding: 7px 20px;
+    }
+}

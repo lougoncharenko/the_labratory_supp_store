@@ -23,9 +23,11 @@ const Shop = ({setSupplementDetail}) => {
       const filteredData = products.filter(item => item.type === 'creatine')
       setProductsData(filteredData);
     }
-    else {
-      setProductsData(products)
-    }
+     else 
+      {
+        setProductsData(products)
+      }
+     
   };
 
   const handleSort = e => {
@@ -45,7 +47,6 @@ const Shop = ({setSupplementDetail}) => {
     } else {
       setProductsData(products);
     }
-
   }
 
   const handleSearch = e => {
