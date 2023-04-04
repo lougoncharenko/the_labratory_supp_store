@@ -1,0 +1,16 @@
+.shop_banner {
+    background: linear-gradient(rgba(0,0,0,0.562), rgba(0,0,0,0.562)), 
+    url('https://hips.hearstapps.com/hmg-prod/images/gettyimages-1281166499.jpg?crop=1.00xw:0.752xh;0,0.207xh&resize=1200:*') no-repeat center center;
+    background-size: cover;
+    height: 350px;
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.banner-text {
+    color: #fff !important;
+    font-weight: 600;
+}

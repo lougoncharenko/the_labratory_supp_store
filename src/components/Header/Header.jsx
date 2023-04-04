@@ -2,9 +2,11 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Header.css'
 import {Container, Row} from 'reactstrap'
+import { useSelector } from 'react-redux';
 import logo from '../../assets/images/lab.png'
 
 const Header = () => {
+  const totalQuantity = useSelector(state => state.cart.totalQuantity)
   return (
     <header className='header'>
       <Container>
@@ -31,9 +33,9 @@ const Header = () => {
                 </ul>
               </div>
               <div className="nav_icons">
-                <span></span>
-                <span className='cart_icon'>
-                  <i class="ri-shopping-cart-line"></i>
+                <span className="cart_icon">
+                <i class="ri-shopping-cart-line ri-lg"></i>
+                   <span className="badge">{totalQuantity}</span>
                 </span>
               </div>
           </div>
